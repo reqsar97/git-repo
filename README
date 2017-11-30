@@ -1,3 +1,7 @@
 My first README
 change in README
 git commit -a -m "asdas"
+
+git rm --cached asd
+asd
+asda
